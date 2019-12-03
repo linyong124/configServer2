@@ -1,2 +1,5 @@
 application-client:
   server: application-client
+image:
+  server: image-client
+
