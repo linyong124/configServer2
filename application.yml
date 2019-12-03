@@ -1,4 +1,4 @@
 application:
   server: application
 all:
-  all: application
+  all: application1
